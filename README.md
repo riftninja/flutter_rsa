@@ -1,6 +1,9 @@
+### This project is not actively supported, a recommended alterntive would be:
+https://github.com/giandifra/simple_rsa
+
 # Flutter RSA
 
-A library providing a simple to use RSA encryption and decryption interface
+A library providing a simple to use RSA encryption and decryption interface (iOS coming soon)
 
 ## Getting Started
 
