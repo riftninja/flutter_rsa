@@ -1,4 +1,4 @@
-### This project is not actively supported, a recommended alterntive would be:
+### This project is not actively maintained, a recommended alterntive would be:
 https://github.com/giandifra/simple_rsa
 
 # Flutter RSA
